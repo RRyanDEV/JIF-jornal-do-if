@@ -90,9 +90,9 @@ https://github.com/othneildrew/Best-README-Template
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [stars-shield]: https://img.shields.io/github/stars/RRyanDEV/JIF-jornal-do-if-?style=for-the-badge
-[stars-url]: https://github.com/RRyanDEV/JIF-jornal-do-if-/stargazers
+[stars-url]: https://github.com/RRyanDEV/JIF-jornal-do-if/stargazers
 [issues-shield]: https://img.shields.io/github/issues/RRyanDEV/JIF-jornal-do-if-?style=for-the-badge
-[issues-url]: https://github.com/RRyanDEV/JIF-jornal-do-if-/issues
+[issues-url]: https://github.com/RRyanDEV/JIF-jornal-do-if/issues
 [REACT]: https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=React&logoColor=%2361DAFB
 [react-url]: https://pt-br.reactjs.org
 [TAILWINDCSS]: https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white

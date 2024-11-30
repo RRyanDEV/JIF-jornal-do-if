@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer body{
+    body{
+        @apply bg-background
+    }
+    button{
+        @apply text-white max-sm:hover:bg-hoverElementNav !important
+    }
+}
+@layer components{
+    #navbar-element{
+        @apply text-white max-sm:hover:bg-hoverElementNav 
+    }
+}

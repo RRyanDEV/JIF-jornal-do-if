@@ -1,10 +1,10 @@
-import Navbar from "@/components/NavbarComponent";
+import NavbarComponent from "@/components/NavbarComponent";
 
 export default function Home() {
   return (
     <>
       <div id="HomeApp" className="">
-        <Navbar></Navbar>
+        <NavbarComponent></NavbarComponent>
       </div>
     </>
   );

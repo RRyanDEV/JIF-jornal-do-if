@@ -36,6 +36,14 @@ https://github.com/othneildrew/Best-README-Template
 
 </a>
 
+### v0.0.2.20241130
+
+- Ajustes no estilo da cor de fundo e da barra de navegaçaõ.
+- Nova barra de navegação.
+- Instalação da biblioteca do Flowbite React.
+- Downgrade da versão do React
+- Instalação da biblioteca do React Icons.
+
 ### v0.0.1.20241122
 
 - Deploy do projeto no Next.JS
